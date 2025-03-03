@@ -22,5 +22,5 @@ Feel free to customize this repository further by adding additional configuratio
 
 ## License
 
-Im not even going to bother with a licence, if you want to use it, do it. (Though you should make your own)
+Im not even going to bother with a licence, if you want to use it, use it. (Though you should make your own)
 
